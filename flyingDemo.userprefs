@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\changeSceneOnButtonPress1.cs">
+    <Files>
+      <File FileName="Assets\Scripts\enemyAI.cs" Line="33" Column="18" />
+      <File FileName="Assets\Scripts\moveCharacter.cs" Line="28" Column="28" />
+      <File FileName="Assets\Scripts\cannonFire.cs" Line="13" Column="39" />
+      <File FileName="Assets\Scripts\destroyWhenCharged.cs" Line="20" Column="18" />
+      <File FileName="Assets\Scripts\resultsScreen.cs" Line="22" Column="26" />
+      <File FileName="Assets\Scripts\timeRing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\changeSceneOnButtonPress1.cs" Line="18" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
